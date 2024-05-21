@@ -15,3 +15,4 @@ The internet is a wire connecting computers the communicate through servers and 
 - Each packet has multiple layers of wrapping with IP addresses from routers.
 - Understanding how the internet works can help protect personal information.
 
+this theory file has been reviewed by Nicolas Catalano
